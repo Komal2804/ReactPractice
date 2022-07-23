@@ -20,6 +20,8 @@ const SecComp = () => {
 
     console.log(name);
     console.log();
+
+    consol.log("komal");
   }, [flag]); //hook
   // Mount => first load / on load => []
   // Update => first load / on load => [drink]
